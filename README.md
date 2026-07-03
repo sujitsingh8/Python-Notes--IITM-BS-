@@ -1,4 +1,4 @@
-# 🐍 Python Notes — IITM BS
+# Python Notes — IITM BS
 
 Week-by-week Python code notes from the **Programming in Python (BSCS1002)** course of the IIT Madras BS in Data Science & Applications program, taught by Prof. Sudarshan Iyengar.
 
@@ -6,7 +6,7 @@ Every concept from the lectures is written up as runnable Python code — no PDF
 
 ---
 
-## 📚 About the Course
+## About the Course
 
 **Programming in Python** is the first formal programming course in the IITM BS program. It covers Python from scratch with a problem-solving focus — from basic syntax all the way through functions, recursion, collections, files, and modules.
 
@@ -16,7 +16,7 @@ Every concept from the lectures is written up as runnable Python code — no PDF
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Python_Notes_IITM-BS/
@@ -37,7 +37,7 @@ Python_Notes_IITM-BS/
 
 ---
 
-## 🗓️ Week-by-Week Topics
+## Week-by-Week Topics
 
 | Week | Main Topic | Sub-topics Covered |
 |------|---|---|
@@ -54,7 +54,7 @@ Python_Notes_IITM-BS/
 
 ---
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 **Requirements:** Python 3.7+ (files use the standard library only).
 
@@ -71,7 +71,7 @@ Each week's folder contains Python files that walk through the key concepts taug
 
 ---
 
-## 💡 Who This Is For
+## Who This Is For
 
 - **Current IITM BS students** looking for code-first summaries of each week
 - **Self-learners** following the free [course videos on YouTube](https://www.youtube.com/playlist?list=PLZ2ps__7DhBb2cXAu5PevO_mzgS3Fj3Fs)
@@ -79,7 +79,7 @@ Each week's folder contains Python files that walk through the key concepts taug
 
 ---
 
-## 📝 Notes
+## Notes
 
 These are my own notes taken while going through the lectures. They're meant as a quick reference, not a replacement for the actual course content. If you spot an error or want to suggest an improvement, feel free to open an issue or pull request.
 
